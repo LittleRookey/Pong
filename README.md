@@ -1,8 +1,6 @@
 ## Pong
 
 ### How to run?
-First, download the library:
-[https://w3.cs.jmu.edu/bernstdh/web/common/help/cpp_mingw-glut-setup.php](https://w3.cs.jmu.edu/bernstdh/web/common/help/cpp_mingw-glut-setup.php)
 ``` g++ -o test -Wall main.cpp -mwindows glut32.lib -lopengl32 -lglu32 ```  
 
 ### Good to know?
