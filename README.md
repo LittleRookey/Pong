@@ -14,7 +14,7 @@ Move mouse to move your horizontal bar
 ![Screenshot](ScreenShots/pong3.png)
 
 #### External resources
-I used GL/glut.h library. It needs to be downloaded to run.   
+I used GL/glut.h library.  
 It can be downloaded [here](https://w3.cs.jmu.edu/bernstdh/web/common/help/cpp_mingw-glut-setup.php)
 
 Reference: [https://www3.ntu.edu.sg/home/ehchua/programming/opengl/cg_introduction.html](https://www3.ntu.edu.sg/home/ehchua/programming/opengl/cg_introduction.html)
