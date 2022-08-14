@@ -14,7 +14,9 @@ Move mouse to move your horizontal bar
 ![Screenshot](ScreenShots/pong3.png)
 
 ## Youtube link:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K3wUXRtxz-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p align="center">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/K3wUXRtxz-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 #### External resources
 I used GL/glut.h library.  
