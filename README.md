@@ -13,7 +13,7 @@ Move mouse to move your horizontal bar
 ![Screenshot](ScreenShots/pong2.png)
 ![Screenshot](ScreenShots/pong3.png)
 Youtube Walkthrough:
-https://www.youtube.com/watch?v=K3wUXRtxz-0&t=4s
+[![Basic walkthrough]](https://www.youtube.com/watch?v=K3wUXRtxz-0&t=4s)
 
 #### External resources
 I used GL/glut.h library.  
